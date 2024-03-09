@@ -1,2 +1,2 @@
-# editor
-learning and helping
+# Spell_craft
+chrome extension for spell_craft(correcting spelling errors) in wikipedia
